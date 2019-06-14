@@ -28,4 +28,4 @@ juego es simple, intuitivo, con botones grandes y poco o nada de texto.
 *  Muestra empate cuando nadie gana y no quedan cajitas que marcar *(Pendiente)*
 *  Permire volver a empezar cuando termina una partida (alguien ganó o empate) 
 
-![screenshot](http://drive.google.com/uc?export=view&id=15FLAgz7mzCZnvCmF6SJ3NXQ-p0IpeDS8 | width=100)
+![screenshot](http://drive.google.com/uc?export=view&id=1Rwn8oH7i6f_C_DujPglHcvN5PZhTScl2)

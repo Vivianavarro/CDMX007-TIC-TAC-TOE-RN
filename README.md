@@ -27,3 +27,5 @@ juego es simple, intuitivo, con botones grandes y poco o nada de texto.
 *  Muestra jugada ganadora cuando hay ganador *(Pendiente)*
 *  Muestra empate cuando nadie gana y no quedan cajitas que marcar *(Pendiente)*
 *  Permire volver a empezar cuando termina una partida (alguien ganó o empate) 
+
+<center>https://drive.google.com/open?id=15FLAgz7mzCZnvCmF6SJ3NXQ-p0IpeDS8</center>

@@ -4,14 +4,12 @@
 
 ## Preámbulo
 
-En este proyecto un juego tic-tac-toe o juego de Gato para celulares y tabletas.
+El proyecto es un juego tic-tac-toe o juego de Gato para celulares y tabletas con temática de dinosuaurios.
 
-La construcción del juego utilicé [React Native](https://facebook.github.io/react-native/).
-React Native es una herramientas que nos permite construir aplicaciones nativas
-para Android e iOS usando JavaScript.
+Para la construcción del juego utilicé [React Native](https://facebook.github.io/react-native/).
+React Native es una herramientas que nos permite construir aplicaciones nativas para Android o iOS usando JavaScript.
 
-El público objetivo son niños en edad pre-escolar, así que el
-juego es simple, intuitivo, con botones grandes y poco o nada de texto.
+El público objetivo son niños en edad pre-escolar, el juego es simple, intuitivo, con botones grandes y poco o nada de texto.
 
 
 ## UI

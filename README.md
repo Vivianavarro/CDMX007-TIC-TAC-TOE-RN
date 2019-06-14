@@ -6,13 +6,12 @@
 
 El proyecto es un juego tic-tac-toe o juego de Gato para celulares y tabletas con temática de dinosuaurios.
 
-Para la construcción del juego utilicé [React Native](https://facebook.github.io/react-native/).
-React Native es una herramientas que nos permite construir aplicaciones nativas para Android o iOS usando JavaScript.
+Para la construcción del juego utilicé [React Native](https://facebook.github.io/react-native/), es una herramienta que nos permite construir aplicaciones nativas para Android o iOS usando JavaScript.
 
 El público objetivo son niños en edad pre-escolar, el juego es simple, intuitivo, con botones grandes y poco o nada de texto.
 
 
-## UI
+## Alcance UI
 
 *  Muestra grilla (grid) de 3x3
 *  Muestra jugador al que le toca su turno *(Pendiente)*
